@@ -1,0 +1,81 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+.wrapper {
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.center {
+    text-align: center;
+}
+.nav-link {
+    color: #444444;
+
+}
+.nav-link.active {
+    color: #30a3f0;
+}
+.info-item,
+.info-link {
+    color: rgba(255,255,255,0.3);
+    font-size: 14px;
+}
+.title p {
+    font-family: 'Raleway', sans-serif;
+    color: #30a3f0;
+    font-size: 18px;
+}
+.title h1 {
+    font-family: 'Raleway', sans-serif;
+    max-width: 720px;
+    font-size: 45px;
+    font-weight: 800;
+    margin: 0 auto;
+    text-transform: uppercase;
+}
+.element {
+    width: 1px;
+    height: 100px;
+    background-color: #2a87c6;
+    margin: 0 auto;
+}
+.element-bottom {
+    margin-top: 32px;
+}
+.element-top {
+    margin-bottom: 29px;
+}
+.btn {
+    font-size: 14px;
+    font-weight: 700;
+    color: #30a3f0;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 1px solid #30a3f0;
+    padding: 20px 42px;
+    border-radius: 5px;
+}
+.box h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 27px;
+}
+.title-h2 {
+    font-size: 30px;
+    font-weight: 800;
+}
+.title-h2 span {
+    font-size: 16px;
+    color: #30a3f0;
+}
+.description {
+    color: #707070;
+}
+.list-description {
+    color: #222222;
+
+}
