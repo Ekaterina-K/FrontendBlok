@@ -747,7 +747,7 @@ body {
     border: none;
     cursor: pointer;
 }
-.btn-footer:focus {
+.nav-btn, .blog-share button, .btn-footer:focus {
     outline: none;
 }
 .footer-bg {
